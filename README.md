@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MunawarAbbas313
-- 👀 I’m interested in Web Development Front-End and Back-End.
-- 🌱 I’m currently learning JAVASCRIPT AND TYPESCRIPT.
+- 👀  A passionate Web Developer .
+- 🌱  REACT JS , NEXT JS , NODE JS , TAILWAND CSS , BOOTSRAP
 - 💞️ I’m looking to collaborate on Web-Development Projects.
 - 📫 Reach me at my Gmail munawargolden3@gmail.com.
 
