@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MunawarAbbas313
 - 👀  A passionate Web Developer .
-- 🌱  REACT JS , NEXT JS , NODE JS , TAILWAND CSS , BOOTSRAP
+- 🌱  REACT JS , NEXT JS , NODE JS , TAILWAND CSS , BOOTSTRAP , DOCKER , FIREBASE , MUI , SHEDCN
+- 
 - 💞️ I’m looking to collaborate on Web-Development Projects.
 - 📫 Reach me at my Gmail munawargolden3@gmail.com.
 
