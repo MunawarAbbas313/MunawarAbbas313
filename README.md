@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8"/>
@@ -458,6 +458,7 @@ footer{
 
 @media(max-width:900px){
   nav{padding:14px 24px}
+  .nav-links{display:none} /* FIX: Hide desktop links on small screens to prevent overflow */
   #hero{padding:100px 24px 60px;flex-direction:column}
   .hero-right{flex:none;width:100%}
   #about,.about-grid{grid-template-columns:1fr}
@@ -960,12 +961,12 @@ function tick(){
   else{ci--;twEl.textContent=p.slice(0,ci);if(ci===0){del=false;pi=(pi+1)%phrases.length;setTimeout(tick,400);return;}setTimeout(tick,35);}
 }tick();
 
-// FADE UP ON SCROLL
+// FADE UP ON SCROLL - FIXED STAGGER
 const obs=new IntersectionObserver(entries=>{
   entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');obs.unobserve(e.target);}});
 },{threshold:0.1,rootMargin:'0px 0px -40px 0px'});
-document.querySelectorAll('.fade-up').forEach((el,i)=>{
-  el.style.transitionDelay=(i%4)*0.08+'s';
+document.querySelectorAll('.fade-up').forEach((el)=>{
+  // Removing the global index transition delay prevents scroll glitching
   obs.observe(el);
 });
 
@@ -990,4 +991,3 @@ document.querySelectorAll('a[href^="#"]').forEach(a=>{
 </script>
 </body>
 </html>
-
