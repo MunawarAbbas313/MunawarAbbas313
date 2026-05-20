@@ -57,10 +57,12 @@
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ NOTE: Replace 'your_github_username' with your actual GitHub username below to load your stats! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=radical" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MunawarAbbas313&show_icons=true&theme=radical&count_private=true" alt="Munawar's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunawarAbbas313&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MunawarAbbas313&theme=radical" alt="GitHub Streak" height="180" />
 </p>
 
 ---
@@ -68,22 +70,21 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <!-- ⚠️ NOTE: Update the URLs below with your personal links! -->
-  <a href="https://www.linkedin.com/in/munawar-abbas/">
+  <a href="https://www.linkedin.com/in/munawar-abbas-5a2b8a273">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/munawar.abbasmir.7">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_github_username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MunawarAbbas313&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
