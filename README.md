@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8"/>
@@ -992,8 +991,3 @@ document.querySelectorAll('a[href^="#"]').forEach(a=>{
 </body>
 </html>
 
-
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
